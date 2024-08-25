@@ -13,7 +13,9 @@ Below are the common concepts in GitHub:
 10.Issues/Projects - Tools for tracking tasks and progress.
 11.Tag - Mark specific points in history, like releases.
 12.GitHub Actions - Automate workflow
+
 GitHub is favored in versioning of code since it integrates with recently developed Git, which is powerful in versioning. It is a collaboration tool with such elements as pull requests and issues, which makes teamwork more effective. GitHub provides code version control, free public repository, and paid private repositories, multiple integration and DevOps solutions and project organization. The product is being developed since years and has mammoth user base and integrations which leads to open contribution. Also, GitHub has good security measures, has very good documentation, does more than hosting, it also allows the hosting of static websites using GitHub Pages. It’s easy to use, available to the public, and does not cost anything to use if the project is non-commercial.
+
 Version control maintains integrity in the following ways:
 1.Ensuring Consistency-Version control helps ensure that all team members are working with the same version of the project. This consistency prevents issues that can arise from team members working on outdated or conflicting versions of files.
 2.Ensuring Accountability-Version control logs the author of each change, making it clear who is responsible for specific modifications
