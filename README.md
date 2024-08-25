@@ -111,6 +111,28 @@ A private repository is only accessible to the repository owner and specific col
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+A commit is a snapshot of your project that captures changes made to the files at a specific point in time. Commits help track the history of changes, manage different versions, and facilitate collaboration by documenting who made what changes and when.
+
+Below are the steps in making a commit:
+
+1. Set up your username and email address, which Git will use to attribute your commits.
+
+	git config --global user.name "Your Name"
+	git config --global user.email "your.email@example.com"
+
+2. Create or Clone a GitHub Repository
+
+3. Initialize the Local Repository.
+
+4. Add Files to the Repository
+
+5. Make Your First Commit-Once your changes are staged, commit them using the git commit command. Each commit should have a descriptive message that explains what the changes are about.
+
+6. Push the Commit to GitHub.
+
+7. Verify the Commit on GitHub-Go to your GitHub repository page. You should see the files you committed and a history of commits. The commit you just made should be listed with its message and timestamp.
+
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
